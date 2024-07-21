@@ -1,4 +1,4 @@
-### Hi there, I'm Saket Kothari 👋
+### Hi there, I'm Arjun Gurjar 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-singh-gurjar-333458146/)
 [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=flat)]( )
@@ -48,13 +48,13 @@
 
  <details>	
   <summary><b>📊 Github Stats</b></summary>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SaketKothari&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaketKothari&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Arjun-Mavai&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Mavai&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SaketKothari/SaketKothari/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Arjun-Mavai/Arjun-Mavai/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   
