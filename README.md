@@ -5,7 +5,7 @@ I'm a passionate **Frontend Developer** with a knack for creating stunning, resp
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-singh-gurjar-333458146/)
 [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=flat)](https://twitter.com/yourusername)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:arjungurjar786@gmail.com)
-[![Website Badge](https://img.shields.io/badge/Portfolio-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://arjungurjar.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/Portfolio-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://responsive-portfolio-git-main-arjun-mavai.vercel.app/)
 [![Leetcode](https://img.shields.io/badge/-Leetcode-000000?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/u/ArjunGurjar/)
 
 - 🧠 &nbsp; I’m currently learning FullStack Development
