@@ -1,11 +1,13 @@
 ### Hi there, I'm Arjun Gurjar 👋
 
+I'm a passionate **Frontend Developer** with a knack for creating stunning, responsive web applications. I love exploring new technologies and continuously improving my skills.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-singh-gurjar-333458146/)
 [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=flat)](https://twitter.com/yourusername)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:arjungurjar786@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Portfolio-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://responsive-portfolio-git-main-arjun-mavai.vercel.app/)
 [![Leetcode](https://img.shields.io/badge/-Leetcode-000000?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/u/ArjunGurjar/)
- 
+
 - 🧠 &nbsp; I’m currently learning FullStack Development
 - ⚡ &nbsp; I’m looking to collaborate with other developers
 - 🥅 &nbsp; Future Goals: Contribute more to Open Source projects
@@ -47,6 +49,12 @@
 ### Spotify 🎧
 
 [![Spotify](https://novatorem-axari.vercel.app/api/spotify)](https://open.spotify.com/user/spotify_user_id)
+
+### ✍️ Quote of the Day
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Arjun-Mavai&color=blue)
 
 <div align="center">
   
