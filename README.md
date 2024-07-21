@@ -1,17 +1,15 @@
 ### Hi there, I'm Arjun Gurjar 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-singh-gurjar-333458146/)
-[![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=flat)]( )
+[![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=flat)](https://twitter.com/yourusername)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:arjungurjar786@gmail.com)
- [![Website Badge](https://img.shields.io/badge/Portfolio-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://saketkothari.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/Portfolio-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://arjungurjar.vercel.app/)
 [![Leetcode](https://img.shields.io/badge/-Leetcode-000000?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/u/ArjunGurjar/)
  
 - 🧠 &nbsp; I’m currently learning FullStack Development
 - ⚡ &nbsp; I’m looking to collaborate with other developers
 - 🥅 &nbsp; Future Goals: Contribute more to Open Source projects
 - 🚴 &nbsp; Fun fact: I love reading.
-
-#
 
 ### Languages and Tools I'm Using...
 
@@ -38,24 +36,17 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 
-#
-
-### Spotify 🎧
-
-[<img src="https://responsive-portfolio-git-main-arjun-mavai.vercel.app/" alt="Saket Spotify Playing" width="350" />](https://open.spotify.com/user/1695kdf2682lvxtr4qsx7hamr)
-
-#
-
- <details>	
+<details>	
   <summary><b>📊 Github Stats</b></summary>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Arjun-Mavai&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Mavai&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-<br clear="both">
+![snake gif](https://github.com/Arjun-Mavai/Arjun-Mavai/blob/output/github-contribution-grid-snake.gif)
 
-<img src="https://github.com/Homebrew/install/blob/master/install
-" alt="Snake animation" />
+### Spotify 🎧
+
+[![Spotify](https://novatorem-axari.vercel.app/api/spotify)](https://open.spotify.com/user/spotify_user_id)
 
 <div align="center">
   
