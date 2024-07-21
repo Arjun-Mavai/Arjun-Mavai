@@ -53,6 +53,17 @@ I'm a passionate **Frontend Developer** with a knack for creating stunning, resp
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
+## 🎨 Art Gallery
+
+Here's a glimpse of some creative projects I've worked on:
+
+![Project 1](https://via.placeholder.com/250x150.png?text=Project+1)
+![Project 2](https://via.placeholder.com/250x150.png?text=Project+2)
+![Project 3](https://via.placeholder.com/250x150.png?text=Project+3)
+
+---
+ 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Arjun-Mavai&color=blue)
 
 <div align="center">
