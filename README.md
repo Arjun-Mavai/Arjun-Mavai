@@ -54,7 +54,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Arjun-Mavai/Arjun-Mavai/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Homebrew/install/blob/master/install
+" alt="Snake animation" />
 
 <div align="center">
   
