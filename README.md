@@ -12,7 +12,23 @@ I'm a passionate **Frontend Developer** with a knack for creating stunning, resp
 - ⚡ &nbsp; I’m looking to collaborate with other developers
 - 🥅 &nbsp; Future Goals: Contribute more to Open Source projects
 - 🚴 &nbsp; Fun fact: I love reading.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sweedarbk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="18%" /> </p>
+<h1 align="center"><img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="hello!" width="7%" />, I'm Brooke!</h1>
+<h3 align="center">A Passionate and Dedicated Software Engineer.</h3>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/brooke-sweedar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brooke's LinkedIn" width="7%" /></a>
+</p>
 
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
+  <img src="https://img.genial.ly/6035bcb66b979e053f5d6fc6/87e5f93d-f314-4fb4-9edd-c977b9c1a690.gif" alt="JavaScript" width="9%" />
+  <img src="https://user-images.githubusercontent.com/97989643/220242520-78dd8232-4416-461a-a8f1-6c0b3f5f357f.gif" alt="React" width="20%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="9%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="9%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="6.5%" />
+  
+</div>
 ### Languages and Tools I'm Using...
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
