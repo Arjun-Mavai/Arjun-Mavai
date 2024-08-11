@@ -23,7 +23,7 @@ I'm a passionate **Frontend Developer** with a knack for creating stunning, resp
 <h3 align="center">A Passionate and Dedicated Software Engineer.</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/brooke-sweedar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brooke's LinkedIn" width="7%" /></a>
+<a href="https://www.linkedin.com/in/arjun-singh-gurjar-333458146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brooke's LinkedIn" width="7%" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -35,6 +35,9 @@ I'm a passionate **Frontend Developer** with a knack for creating stunning, resp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="6.5%" />
   
 </div>
+
+
+
 ### Languages and Tools I'm Using...
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
