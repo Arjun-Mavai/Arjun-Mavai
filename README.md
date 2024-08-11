@@ -1,4 +1,4 @@
-![GitHub Banner](https://github.com/user-attachments/assets/7b0beb0e-6b53-48d5-97ef-b654032cfaed)
+![GitHub Banner](https://github.com/user-attachments/assets/e0d2da46-f5ae-4cf0-b4a3-8140d057615d)
 
 ### Hi there, I'm Arjun Gurjar 👋
 
