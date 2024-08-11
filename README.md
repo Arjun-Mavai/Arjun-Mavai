@@ -19,7 +19,7 @@ I'm a passionate **Frontend Developer** with a knack for creating stunning, resp
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sweedarbk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="18%" /> </p>
-<h1 align="center"><img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="hello!" width="7%" />, I'm Arjun Gurjar!</h1>
+<h1 align="center">Hi,  I'm Arjun Gurjar! ,  <img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="hello!" width="7%" /></h1>
 <h3 align="center">A Passionate and Dedicated Software Engineer.</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
